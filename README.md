@@ -51,6 +51,8 @@ or Go to <a href="https://drive.google.com/file/d/1HnO7HSu77BHBcKCyyRBekKC_sOili
 
 No installation is needed. Just click on the link to have access to my website. 
 
+Notes: ```Click on the Github, LinkedIn and Twitter icons to be redirected.
+Click on the Mail icon to send an email to me! 🫰🏻```
 
 
 ## Links
