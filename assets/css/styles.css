@@ -42,6 +42,13 @@ body {
   background-image: linear-gradient(to right, rgba(171, 163, 163), rgb(196, 177, 208));
 }
 
+h2 {
+    color: #000000;
+}
+
+.form-outline {
+    color: #000000;
+}
 .cover-container {
   max-width: 42em;
 }
@@ -57,6 +64,9 @@ body {
     display: inline-block; 
 }
 
+.form-check-label {
+    color: #000000;
+}
 nav {
     max-width: 100%;
 }
