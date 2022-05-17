@@ -49,9 +49,10 @@ No installation is needed. Just click on the link to have access to my website.
 
 
 
-## Github Repo Link 
+## Links
 
-[Portfolio Twopointo](https://github.com/chaunnybby7/portfoliotwopointo)
+[Deployed Link](https://chaunnybby7.github.io/portfoliotwopointo/)
+[Github Portfolio Twopointo](https://github.com/chaunnybby7/portfoliotwopointo)
 
 ## Authors
 YiLin Ong
