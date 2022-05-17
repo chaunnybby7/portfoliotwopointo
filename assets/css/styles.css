@@ -13,7 +13,7 @@
 }
 
 a {
-    color: #ffffff;
+    color: #0e0d0d;
     font-style: bold;
 }
 
@@ -22,14 +22,19 @@ a:hover {
     font-style: bold;
 }
 a:active {
-    color: #ffffff;
+    color: #000000;
     font-style: bold;
 }
 a:visited {
-    color: #ffffff;
+    color: #060606;
     font-style: bold;
 }
 
+h3 {
+  color:#ffffff;
+  font-size: 13px;
+  font-weight: 700;
+}
 small {
     font-weight: 700;
     font-size: 13px;
